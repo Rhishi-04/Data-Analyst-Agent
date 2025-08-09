@@ -1,0 +1,44 @@
+# Core FastAPI and web framework
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Ollama integration
+httpx
+
+# Data processing and analysis
+pandas
+numpy
+duckdb
+openpyxl
+
+# Visualization
+matplotlib
+seaborn
+plotly
+Pillow
+
+# Machine Learning
+scikit-learn
+scipy
+
+# Web scraping
+beautifulsoup4
+requests
+selenium
+
+# Utilities
+python-dotenv
+aiofiles
+pydantic
+pydantic-settings
+lxml
+
+# Build tools
+setuptools
+wheel
+
+# Additional dependencies for agentic AI
+langchain-core
+langchain-community
+
